@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **preston.dickerson@centre.edu**
 
-- ⚡ Fun fact **I run Cross Country and Track at <a href = "centre.edu">Centre College</a>**
+- ⚡ Fun fact **I run Cross Country and Track at <a href = "[hcentre.edu](https://www.centre.edu/)">Centre College</a>**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
