@@ -13,6 +13,8 @@
 
 - ⚡ Fun fact **I run Cross Country and Track at <a href = "https://www.centre.edu/">Centre College</a>**
 
+- 😀 Look Into My Projects *<a href = "https://www.dev-preston-dickerson.com">My Portfolio</a>*
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
