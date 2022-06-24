@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Modernization of Wilderness Trace Website**
 
-- 🌱 I’m currently learning **Data Structures, Operating System Programing in C**
+- 🌱 I’m currently learning **Mobile Development With Android Studio, XML, and Kotlin**
 
 - 📫 How to reach me **preston.dickerson@centre.edu**
 
