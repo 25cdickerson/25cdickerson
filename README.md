@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preston Dickerson</h1>
-<h3 align="center">Computer Science Student at Centre College | Intern at Wilderness Trace Solar</h3>
+<h3 align="center">Computer Science Student at Centre College | Intern for ITS at Centre College | Incoming Software Developer at LCS</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=25cdickerson&label=Profile%20views&color=0e75b6&style=flat" alt="25cdickerson" /> </p>
 
