@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preston Dickerson</h1>
-<h3 align="center">Computer Science Student at Centre College | Intern for ITS at Centre College | Incoming Software Developer at LCS</h3>
+<h3 align="center">Bachelors of Science in Computer Science from Centre College | Software Developer at LCS | Master Student at Georgia Tech</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=25cdickerson&label=Profile%20views&color=0e75b6&style=flat" alt="25cdickerson" /> </p>
 
@@ -7,11 +7,11 @@
 
 - 🔭 I’m currently working on **Modernization of Wilderness Trace Website**
 
-- 🌱 I’m currently learning **Mobile Development With Android Studio, XML, and Kotlin**
+- 🌱 I’m currently learning **Theory of Computation and Computer Networks**
 
-- 📫 How to reach me **preston.dickerson@centre.edu**
+- 📫 How to reach me **cdickerson39@yahoo.com**
 
-- ⚡ Fun fact **I run Cross Country and Track at <a href = "https://www.centre.edu/">Centre College</a>**
+- ⚡ Fun fact **I ran varsity Cross Country and Track at <a href = "https://www.centre.edu/">Centre College</a>**
 
 - 😀 Look Into My Projects *<a href = "https://www.dev-preston-dickerson.com">My Portfolio</a>*
 
